@@ -20,6 +20,7 @@ I enjoy turning complex business problems into reliable systems and collaboratin
 
 📍 Bengaluru, India  
 📫 **Email:** thanvir200@gmail.com
+🌐 **Portfolio:** https://virportfolio-henna.vercel.app/
 
 ---
 
