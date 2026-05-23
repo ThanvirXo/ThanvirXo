@@ -68,6 +68,12 @@ I enjoy turning complex business problems into reliable systems and collaboratin
 - Loaded and embedded **10,000+ movies** via TMDB API
 - Designed scalable backend using FastAPI & Pydantic-AI
 
+### 🐞 Jira Bug Auto-Solver
+**Python • FastAPI • Jira Webhooks • Claude • Git Worktrees**
+- Built an end-to-end pipeline that turns Jira bugs into ready-to-merge code fixes with zero manual triage
+- **Jira Automation webhooks** push assigned bugs into a FastAPI service, which writes them to the target repo as structured issues
+- **Claude** picks up each bug, analyzes the codebase, and resolves the fix in an isolated **Git worktree** per issue
+- Reduced bug-to-fix workflow to a single action: review the worktree diff and merge
 ---
 
 ## 🤝 Let's Connect
